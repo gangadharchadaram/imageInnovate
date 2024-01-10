@@ -1,0 +1,9 @@
+.time-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.desc{
+    color: #fff;
+}
